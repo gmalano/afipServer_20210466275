@@ -1,0 +1,3086 @@
+[26/6/2026, 04:21:01]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 1,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 118,
+    "CbteHasta": 118,
+    "CbteFch": "20260626",
+    "ImpTotal": 25,
+    "ImpTotConc": 0,
+    "ImpNeto": 20.66,
+    "ImpOpEx": 0,
+    "ImpIVA": 4.34,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 20.66,
+        "Importe": 4.34
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 1,
+        "CbteTipo": 6,
+        "FchProceso": "20260626162059",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 118,
+            "CbteHasta": 118,
+            "CbteFch": "20260626",
+            "Resultado": "A",
+            "CAE": "86260497381109",
+            "CAEFchVto": "20260706"
+          }
+        ]
+      }
+    },
+    "cae": "86260497381109",
+    "caeFchVto": "20260706"
+  }
+}
+------------------------------------------------------------
+
+[25/6/2026, 01:55:32]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 12,
+    "CbteHasta": 12,
+    "CbteFch": "20260625",
+    "ImpTotal": 50,
+    "ImpTotConc": 0,
+    "ImpNeto": 41.32,
+    "ImpOpEx": 0,
+    "ImpIVA": 8.68,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 41.32,
+        "Importe": 8.68
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260625135531",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 12,
+            "CbteHasta": 12,
+            "CbteFch": "20260625",
+            "Resultado": "A",
+            "CAE": "86260485313360",
+            "CAEFchVto": "20260705"
+          }
+        ]
+      }
+    },
+    "cae": "86260485313360",
+    "caeFchVto": "20260705"
+  }
+}
+------------------------------------------------------------
+
+[23/6/2026, 11:26:40]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 11,
+    "CbteHasta": 11,
+    "CbteFch": "20260623",
+    "ImpTotal": 42.53,
+    "ImpTotConc": 0,
+    "ImpNeto": 38.49,
+    "ImpOpEx": 0,
+    "ImpIVA": 4.04,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 4,
+        "BaseImp": 38.49,
+        "Importe": 4.04
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260623112633",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 11,
+            "CbteHasta": 11,
+            "CbteFch": "20260623",
+            "Resultado": "A",
+            "CAE": "86250468010824",
+            "CAEFchVto": "20260703"
+          }
+        ]
+      }
+    },
+    "cae": "86250468010824",
+    "caeFchVto": "20260703"
+  }
+}
+------------------------------------------------------------
+
+[22/6/2026, 05:42:12]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 10,
+    "CbteHasta": 10,
+    "CbteFch": "20260622",
+    "ImpTotal": 4000,
+    "ImpTotConc": 0,
+    "ImpNeto": 3305.79,
+    "ImpOpEx": 0,
+    "ImpIVA": 694.21,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 3305.79,
+        "Importe": 694.21
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260622174209",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 10,
+            "CbteHasta": 10,
+            "CbteFch": "20260622",
+            "Resultado": "A",
+            "CAE": "86250463251216",
+            "CAEFchVto": "20260702"
+          }
+        ]
+      }
+    },
+    "cae": "86250463251216",
+    "caeFchVto": "20260702"
+  }
+}
+------------------------------------------------------------
+
+[22/6/2026, 05:41:11]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 1,
+    "Concepto": 1,
+    "DocTipo": 80,
+    "DocNro": 27210466288,
+    "CbteDesde": 67,
+    "CbteHasta": 67,
+    "CbteFch": "20260622",
+    "ImpTotal": 176.47,
+    "ImpTotConc": 0,
+    "ImpNeto": 159.7,
+    "ImpOpEx": 0,
+    "ImpIVA": 16.77,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 1,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 4,
+        "BaseImp": 159.7,
+        "Importe": 16.77
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 1,
+        "FchProceso": "20260622174107",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 80,
+            "DocNro": 27210466288,
+            "CbteDesde": 67,
+            "CbteHasta": 67,
+            "CbteFch": "20260622",
+            "Resultado": "A",
+            "Observaciones": {
+              "Obs": [
+                {
+                  "Code": 10217,
+                  "Msg": "El credito fiscal discriminado en el presente comprobante solo podra ser computado a efectos del Procedimiento permanente de transicion al Regimen General."
+                }
+              ]
+            },
+            "CAE": "86250463247950",
+            "CAEFchVto": "20260702"
+          }
+        ]
+      }
+    },
+    "cae": "86250463247950",
+    "caeFchVto": "20260702"
+  }
+}
+------------------------------------------------------------
+
+[22/6/2026, 05:39:35]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 9,
+    "CbteHasta": 9,
+    "CbteFch": "20260622",
+    "ImpTotal": 88.73,
+    "ImpTotConc": 0,
+    "ImpNeto": 79.58,
+    "ImpOpEx": 0,
+    "ImpIVA": 9.15,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 4,
+        "BaseImp": 72.07,
+        "Importe": 7.57
+      },
+      {
+        "Id": 5,
+        "BaseImp": 7.51,
+        "Importe": 1.58
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260622173931",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 9,
+            "CbteHasta": 9,
+            "CbteFch": "20260622",
+            "Resultado": "A",
+            "CAE": "86250463242659",
+            "CAEFchVto": "20260702"
+          }
+        ]
+      }
+    },
+    "cae": "86250463242659",
+    "caeFchVto": "20260702"
+  }
+}
+------------------------------------------------------------
+
+[11/6/2026, 01:37:55]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 1,
+    "Concepto": 1,
+    "DocTipo": 80,
+    "DocNro": 27210466288,
+    "CbteDesde": 66,
+    "CbteHasta": 66,
+    "CbteFch": "20260611",
+    "ImpTotal": 1000,
+    "ImpTotConc": 0,
+    "ImpNeto": 826.45,
+    "ImpOpEx": 0,
+    "ImpIVA": 173.55,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 1,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 826.45,
+        "Importe": 173.55
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 1,
+        "FchProceso": "20260611133755",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 80,
+            "DocNro": 27210466288,
+            "CbteDesde": 66,
+            "CbteHasta": 66,
+            "CbteFch": "20260611",
+            "Resultado": "A",
+            "Observaciones": {
+              "Obs": [
+                {
+                  "Code": 10217,
+                  "Msg": "El credito fiscal discriminado en el presente comprobante solo podra ser computado a efectos del Procedimiento permanente de transicion al Regimen General."
+                }
+              ]
+            },
+            "CAE": "86240251858005",
+            "CAEFchVto": "20260621"
+          }
+        ]
+      }
+    },
+    "cae": "86240251858005",
+    "caeFchVto": "20260621"
+  }
+}
+------------------------------------------------------------
+
+[11/6/2026, 01:26:48]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 1,
+    "Concepto": 1,
+    "DocTipo": 80,
+    "DocNro": 27210466288,
+    "CbteDesde": 65,
+    "CbteHasta": 65,
+    "CbteFch": "20260611",
+    "ImpTotal": 1000,
+    "ImpTotConc": 0,
+    "ImpNeto": 826.45,
+    "ImpOpEx": 0,
+    "ImpIVA": 173.55,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 1,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 826.45,
+        "Importe": 173.55
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 1,
+        "FchProceso": "20260611132648",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 80,
+            "DocNro": 27210466288,
+            "CbteDesde": 65,
+            "CbteHasta": 65,
+            "CbteFch": "20260611",
+            "Resultado": "A",
+            "Observaciones": {
+              "Obs": [
+                {
+                  "Code": 10217,
+                  "Msg": "El credito fiscal discriminado en el presente comprobante solo podra ser computado a efectos del Procedimiento permanente de transicion al Regimen General."
+                }
+              ]
+            },
+            "CAE": "86240251843366",
+            "CAEFchVto": "20260621"
+          }
+        ]
+      }
+    },
+    "cae": "86240251843366",
+    "caeFchVto": "20260621"
+  }
+}
+------------------------------------------------------------
+
+[11/6/2026, 01:26:29]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 8,
+    "CbteHasta": 8,
+    "CbteFch": "20260611",
+    "ImpTotal": 1000,
+    "ImpTotConc": 0,
+    "ImpNeto": 826.45,
+    "ImpOpEx": 0,
+    "ImpIVA": 173.55,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 826.45,
+        "Importe": 173.55
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260611132627",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 8,
+            "CbteHasta": 8,
+            "CbteFch": "20260611",
+            "Resultado": "A",
+            "CAE": "86240251842881",
+            "CAEFchVto": "20260621"
+          }
+        ]
+      }
+    },
+    "cae": "86240251842881",
+    "caeFchVto": "20260621"
+  }
+}
+------------------------------------------------------------
+
+[11/6/2026, 12:11:25]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 7,
+    "CbteHasta": 7,
+    "CbteFch": "20260611",
+    "ImpTotal": 1000,
+    "ImpTotConc": 0,
+    "ImpNeto": 826.45,
+    "ImpOpEx": 0,
+    "ImpIVA": 173.55,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 826.45,
+        "Importe": 173.55
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260611121123",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 7,
+            "CbteHasta": 7,
+            "CbteFch": "20260611",
+            "Resultado": "A",
+            "CAE": "86240251510591",
+            "CAEFchVto": "20260621"
+          }
+        ]
+      }
+    },
+    "cae": "86240251510591",
+    "caeFchVto": "20260621"
+  }
+}
+------------------------------------------------------------
+
+[11/6/2026, 10:59:33]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 6,
+    "CbteHasta": 6,
+    "CbteFch": "20260611",
+    "ImpTotal": 50,
+    "ImpTotConc": 0,
+    "ImpNeto": 41.32,
+    "ImpOpEx": 0,
+    "ImpIVA": 8.68,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 41.32,
+        "Importe": 8.68
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260611105929",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 6,
+            "CbteHasta": 6,
+            "CbteFch": "20260611",
+            "Resultado": "A",
+            "CAE": "86240250803342",
+            "CAEFchVto": "20260621"
+          }
+        ]
+      }
+    },
+    "cae": "86240250803342",
+    "caeFchVto": "20260621"
+  }
+}
+------------------------------------------------------------
+
+[8/6/2026, 04:19:52]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 1,
+    "Concepto": 1,
+    "DocTipo": 80,
+    "DocNro": 27210466288,
+    "CbteDesde": 64,
+    "CbteHasta": 64,
+    "CbteFch": "20260608",
+    "ImpTotal": 1000,
+    "ImpTotConc": 0,
+    "ImpNeto": 826.45,
+    "ImpOpEx": 0,
+    "ImpIVA": 173.55,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 1,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 826.45,
+        "Importe": 173.55
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 1,
+        "FchProceso": "20260608161952",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 80,
+            "DocNro": 27210466288,
+            "CbteDesde": 64,
+            "CbteHasta": 64,
+            "CbteFch": "20260608",
+            "Resultado": "A",
+            "Observaciones": {
+              "Obs": [
+                {
+                  "Code": 10217,
+                  "Msg": "El credito fiscal discriminado en el presente comprobante solo podra ser computado a efectos del Procedimiento permanente de transicion al Regimen General."
+                }
+              ]
+            },
+            "CAE": "86230232955256",
+            "CAEFchVto": "20260618"
+          }
+        ]
+      }
+    },
+    "cae": "86230232955256",
+    "caeFchVto": "20260618"
+  }
+}
+------------------------------------------------------------
+
+[1/6/2026, 06:30:17]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 1,
+    "Concepto": 1,
+    "DocTipo": 80,
+    "DocNro": 27210466288,
+    "CbteDesde": 63,
+    "CbteHasta": 63,
+    "CbteFch": "20260601",
+    "ImpTotal": 100,
+    "ImpTotConc": 0,
+    "ImpNeto": 82.64,
+    "ImpOpEx": 0,
+    "ImpIVA": 17.36,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 1,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 82.64,
+        "Importe": 17.36
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 1,
+        "FchProceso": "20260601183016",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 80,
+            "DocNro": 27210466288,
+            "CbteDesde": 63,
+            "CbteHasta": 63,
+            "CbteFch": "20260601",
+            "Resultado": "A",
+            "Observaciones": {
+              "Obs": [
+                {
+                  "Code": 10217,
+                  "Msg": "El credito fiscal discriminado en el presente comprobante solo podra ser computado a efectos del Procedimiento permanente de transicion al Regimen General."
+                }
+              ]
+            },
+            "CAE": "86220213465668",
+            "CAEFchVto": "20260611"
+          }
+        ]
+      }
+    },
+    "cae": "86220213465668",
+    "caeFchVto": "20260611"
+  }
+}
+------------------------------------------------------------
+
+[1/6/2026, 06:29:34]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 5,
+    "CbteHasta": 5,
+    "CbteFch": "20260601",
+    "ImpTotal": 4695,
+    "ImpTotConc": 0,
+    "ImpNeto": 3880.17,
+    "ImpOpEx": 0,
+    "ImpIVA": 814.83,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 3880.17,
+        "Importe": 814.83
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260601182933",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 5,
+            "CbteHasta": 5,
+            "CbteFch": "20260601",
+            "Resultado": "A",
+            "CAE": "86220213465595",
+            "CAEFchVto": "20260611"
+          }
+        ]
+      }
+    },
+    "cae": "86220213465595",
+    "caeFchVto": "20260611"
+  }
+}
+------------------------------------------------------------
+
+[1/6/2026, 03:04:04]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 4,
+    "CbteHasta": 4,
+    "CbteFch": "20260601",
+    "ImpTotal": 7000,
+    "ImpTotConc": 0,
+    "ImpNeto": 5785.12,
+    "ImpOpEx": 0,
+    "ImpIVA": 1214.88,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 5785.12,
+        "Importe": 1214.88
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260601150403",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 4,
+            "CbteHasta": 4,
+            "CbteFch": "20260601",
+            "Resultado": "A",
+            "CAE": "86220212762351",
+            "CAEFchVto": "20260611"
+          }
+        ]
+      }
+    },
+    "cae": "86220212762351",
+    "caeFchVto": "20260611"
+  }
+}
+------------------------------------------------------------
+
+[1/6/2026, 03:03:29]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 1,
+    "Concepto": 1,
+    "DocTipo": 80,
+    "DocNro": 27210466288,
+    "CbteDesde": 62,
+    "CbteHasta": 62,
+    "CbteFch": "20260601",
+    "ImpTotal": 15,
+    "ImpTotConc": 0,
+    "ImpNeto": 12.4,
+    "ImpOpEx": 0,
+    "ImpIVA": 2.6,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 1,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 12.4,
+        "Importe": 2.6
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 1,
+        "FchProceso": "20260601150328",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 80,
+            "DocNro": 27210466288,
+            "CbteDesde": 62,
+            "CbteHasta": 62,
+            "CbteFch": "20260601",
+            "Resultado": "A",
+            "Observaciones": {
+              "Obs": [
+                {
+                  "Code": 10217,
+                  "Msg": "El credito fiscal discriminado en el presente comprobante solo podra ser computado a efectos del Procedimiento permanente de transicion al Regimen General."
+                }
+              ]
+            },
+            "CAE": "86220212762275",
+            "CAEFchVto": "20260611"
+          }
+        ]
+      }
+    },
+    "cae": "86220212762275",
+    "caeFchVto": "20260611"
+  }
+}
+------------------------------------------------------------
+
+[1/6/2026, 02:55:08]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 3,
+    "CbteHasta": 3,
+    "CbteFch": "20260601",
+    "ImpTotal": 1200,
+    "ImpTotConc": 0,
+    "ImpNeto": 991.74,
+    "ImpOpEx": 0,
+    "ImpIVA": 208.26,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 991.74,
+        "Importe": 208.26
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260601145508",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 3,
+            "CbteHasta": 3,
+            "CbteFch": "20260601",
+            "Resultado": "A",
+            "CAE": "86220212756522",
+            "CAEFchVto": "20260611"
+          }
+        ]
+      }
+    },
+    "cae": "86220212756522",
+    "caeFchVto": "20260611"
+  }
+}
+------------------------------------------------------------
+
+[1/6/2026, 02:53:42]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 3,
+    "CbteHasta": 3,
+    "CbteFch": "20260601",
+    "ImpTotal": 105,
+    "ImpTotConc": 0,
+    "ImpNeto": 76.81,
+    "ImpOpEx": 0,
+    "ImpIVA": 28.19,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 76.81,
+        "Importe": 28.19
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260601145341",
+        "CantReg": 1,
+        "Resultado": "R",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 3,
+            "CbteHasta": 3,
+            "CbteFch": "20260601",
+            "Resultado": "R",
+            "Observaciones": {
+              "Obs": [
+                {
+                  "Code": 10051,
+                  "Msg": "Los importes informados en AlicIVA no se corresponden con los porcentajes."
+                }
+              ]
+            },
+            "CAE": "",
+            "CAEFchVto": ""
+          }
+        ]
+      }
+    },
+    "cae": "",
+    "caeFchVto": ""
+  }
+}
+------------------------------------------------------------
+
+[1/6/2026, 02:40:52]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 2,
+    "CbteHasta": 2,
+    "CbteFch": "20260601",
+    "ImpTotal": 1050,
+    "ImpTotConc": 0,
+    "ImpNeto": 867.77,
+    "ImpOpEx": 0,
+    "ImpIVA": 182.23,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 867.77,
+        "Importe": 182.23
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260601144051",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 2,
+            "CbteHasta": 2,
+            "CbteFch": "20260601",
+            "Resultado": "A",
+            "CAE": "86220212746744",
+            "CAEFchVto": "20260611"
+          }
+        ]
+      }
+    },
+    "cae": "86220212746744",
+    "caeFchVto": "20260611"
+  }
+}
+------------------------------------------------------------
+
+[1/6/2026, 02:40:08]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 5,
+    "CbteTipo": 6,
+    "Concepto": 1,
+    "DocTipo": 99,
+    "DocNro": 0,
+    "CbteDesde": 1,
+    "CbteHasta": 1,
+    "CbteFch": "20260601",
+    "ImpTotal": 4445,
+    "ImpTotConc": 0,
+    "ImpNeto": 3673.55,
+    "ImpOpEx": 0,
+    "ImpIVA": 771.45,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 5,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 3673.55,
+        "Importe": 771.45
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 5,
+        "CbteTipo": 6,
+        "FchProceso": "20260601144008",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 99,
+            "DocNro": 0,
+            "CbteDesde": 1,
+            "CbteHasta": 1,
+            "CbteFch": "20260601",
+            "Resultado": "A",
+            "CAE": "86220212746435",
+            "CAEFchVto": "20260611"
+          }
+        ]
+      }
+    },
+    "cae": "86220212746435",
+    "caeFchVto": "20260611"
+  }
+}
+------------------------------------------------------------
+
+[1/6/2026, 02:36:09]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 2,
+    "CbteTipo": 1,
+    "Concepto": 1,
+    "DocTipo": 80,
+    "DocNro": 27210466288,
+    "CbteDesde": 164,
+    "CbteHasta": 164,
+    "CbteFch": "20260601",
+    "ImpTotal": 15,
+    "ImpTotConc": 0,
+    "ImpNeto": 12.4,
+    "ImpOpEx": 0,
+    "ImpIVA": 2.6,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 1,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 12.4,
+        "Importe": 2.6
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 2,
+        "CbteTipo": 1,
+        "FchProceso": "20260601143609",
+        "CantReg": 1,
+        "Resultado": "A",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 80,
+            "DocNro": 27210466288,
+            "CbteDesde": 164,
+            "CbteHasta": 164,
+            "CbteFch": "20260601",
+            "Resultado": "A",
+            "Observaciones": {
+              "Obs": [
+                {
+                  "Code": 10217,
+                  "Msg": "El credito fiscal discriminado en el presente comprobante solo podra ser computado a efectos del Procedimiento permanente de transicion al Regimen General."
+                }
+              ]
+            },
+            "CAE": "86220212745552",
+            "CAEFchVto": "20260611"
+          }
+        ]
+      }
+    },
+    "cae": "86220212745552",
+    "caeFchVto": "20260611"
+  }
+}
+------------------------------------------------------------
+
+[1/6/2026, 02:32:49]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 2,
+    "CbteTipo": 1,
+    "Concepto": 1,
+    "DocTipo": 80,
+    "DocNro": 20210466275,
+    "CbteDesde": 164,
+    "CbteHasta": 164,
+    "CbteFch": "20260601",
+    "ImpTotal": 15,
+    "ImpTotConc": 0,
+    "ImpNeto": 12.4,
+    "ImpOpEx": 0,
+    "ImpIVA": 2.6,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 1,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 12.4,
+        "Importe": 2.6
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 2,
+        "CbteTipo": 1,
+        "FchProceso": "20260601143248",
+        "CantReg": 1,
+        "Resultado": "R",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 80,
+            "DocNro": 20210466275,
+            "CbteDesde": 164,
+            "CbteHasta": 164,
+            "CbteFch": "20260601",
+            "Resultado": "R",
+            "CAE": "",
+            "CAEFchVto": ""
+          }
+        ]
+      },
+      "Errors": {
+        "Err": [
+          {
+            "Code": 10069,
+            "Msg": "Campo DocNro no puede ser igual al del emisor."
+          }
+        ]
+      }
+    },
+    "cae": "",
+    "caeFchVto": ""
+  }
+}
+------------------------------------------------------------
+
+[1/6/2026, 02:32:25]
+=== REQUEST / RESPONSE ===
+{
+  "request": {
+    "CantReg": 1,
+    "PtoVta": 2,
+    "CbteTipo": 1,
+    "Concepto": 1,
+    "DocTipo": 80,
+    "DocNro": 20210466275,
+    "CbteDesde": 164,
+    "CbteHasta": 164,
+    "CbteFch": "20260601",
+    "ImpTotal": 15,
+    "ImpTotConc": 0,
+    "ImpNeto": 12.4,
+    "ImpOpEx": 0,
+    "ImpIVA": 2.6,
+    "ImpTrib": 0,
+    "MonId": "PES",
+    "MonCotiz": 1,
+    "CondicionIVAReceptorId": 1,
+    "CondicionIVAReceptorIdSpecified": true,
+    "Iva": [
+      {
+        "Id": 5,
+        "BaseImp": 12.4,
+        "Importe": 2.6
+      }
+    ]
+  },
+  "response": {
+    "response": {
+      "FeCabResp": {
+        "Cuit": 20210466275,
+        "PtoVta": 2,
+        "CbteTipo": 1,
+        "FchProceso": "20260601143224",
+        "CantReg": 1,
+        "Resultado": "R",
+        "Reproceso": "N"
+      },
+      "FeDetResp": {
+        "FECAEDetResponse": [
+          {
+            "Concepto": 1,
+            "DocTipo": 80,
+            "DocNro": 20210466275,
+            "CbteDesde": 164,
+            "CbteHasta": 164,
+            "CbteFch": "20260601",
+            "Resultado": "R",
+            "CAE": "",
+            "CAEFchVto": ""
+          }
+        ]
+      },
+      "Errors": {
+        "Err": [
+          {
+            "Code": 10069,
+            "Msg": "Campo DocNro no puede ser igual al del emisor."
+          }
+        ]
+      }
+    },
+    "cae": "",
+    "caeFchVto": ""
+  }
+}
+------------------------------------------------------------
+
+[29/5/2026, 05:01:44]
+=== ERROR ===
+Tipo de comprobante inválido. Debe ser mayor a cero.
+------------------------------------------------------------
+
+[29/5/2026, 03:24:56]
+=== ERROR ===
+Tipo de comprobante inválido. Debe ser mayor a cero.
+------------------------------------------------------------
+
+[29/5/2026, 11:15:56]
+=== ERROR ===
+Tipo de comprobante inválido. Debe ser mayor a cero.
+------------------------------------------------------------
+
+[29/5/2026, 11:03:36]
+=== ERROR ===
+Tipo de comprobante inválido. Debe ser mayor a cero.
+------------------------------------------------------------
+
+[22/5/2026, 03:49:11]
+=== ERROR ===
+Tipo de comprobante inválido. Debe ser mayor a cero.
+------------------------------------------------------------
+
+[21/5/2026, 08:06:50]
+=== ERROR ===
+Tipo de comprobante inválido. Debe ser mayor a cero.
+------------------------------------------------------------
+
+[21/5/2026, 07:38:22]
+=== ERROR ===
+ENOENT: no such file or directory, open 'C:\Users\GermanPC\mi-app - pb\server\certs\undefined.crt'
+------------------------------------------------------------
+
+[21/5/2026, 06:23:59]
+=== ERROR ===
+ENOENT: no such file or directory, open 'C:\Users\GermanPC\mi-app - pb\server\certs\undefined.crt'
+------------------------------------------------------------
+
+[21/5/2026, 06:18:45]
+=== ERROR ===
+ENOENT: no such file or directory, open 'C:\Users\GermanPC\mi-app - pb\server\certs\undefined.crt'
+------------------------------------------------------------
+
+[21/5/2026, 06:01:24]
+=== ERROR ===
+ENOENT: no such file or directory, open 'C:\Users\GermanPC\mi-app - pb\server\certs\undefined.crt'
+------------------------------------------------------------
+
+[15/5/2026, 06:15:20]
+=== ERROR ===
+Tipo de comprobante inválido. Debe ser mayor a cero.
+------------------------------------------------------------
+
+[15/5/2026, 06:14:59]
+=== ERROR ===
+Tipo de comprobante inválido. Debe ser mayor a cero.
+------------------------------------------------------------
+
+[15/5/2026, 05:43:18]
+=== ERROR ===
+Tipo de comprobante inválido. Debe ser mayor a cero.
+------------------------------------------------------------
+
+[15/5/2026, 03:32:55]
+=== ERROR ===
+Tipo de comprobante inválido. Debe ser mayor a cero.
+------------------------------------------------------------
+
+[14/5/2026, 05:13:54]
+=== ERROR ===
+Tipo de comprobante inválido. Debe ser mayor a cero.
+------------------------------------------------------------
+
+[12/5/2026, 02:49:36]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 6,
+  "Concepto": 3,
+  "DocTipo": 96,
+  "DocNro": "99999999",
+  "CbteDesde": 117,
+  "CbteHasta": 117,
+  "CbteFch": "20260512",
+  "ImpTotal": "2321.65",
+  "ImpTotConc": 0,
+  "ImpNeto": "1918.72",
+  "ImpOpEx": 0,
+  "ImpIVA": "402.93",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 5,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260512",
+  "FchServHasta": "20260512",
+  "FchVtoPago": "20260512",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "1918.72",
+      "Importe": "402.93"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 6,
+      "FchProceso": "20260512144936",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 96,
+          "DocNro": 99999999,
+          "CbteDesde": 117,
+          "CbteHasta": 117,
+          "CbteFch": "20260512",
+          "Resultado": "A",
+          "CAE": "86190156076293",
+          "CAEFchVto": "20260522"
+        }
+      ]
+    }
+  },
+  "cae": "86190156076293",
+  "caeFchVto": "20260522"
+}
+------------------------------------------------------------
+
+[12/5/2026, 02:48:28]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 6,
+  "Concepto": 3,
+  "DocTipo": 96,
+  "DocNro": "99999999",
+  "CbteDesde": 116,
+  "CbteHasta": 116,
+  "CbteFch": "20260512",
+  "ImpTotal": "371.95",
+  "ImpTotConc": 0,
+  "ImpNeto": "307.40",
+  "ImpOpEx": 0,
+  "ImpIVA": "64.55",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 5,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260512",
+  "FchServHasta": "20260512",
+  "FchVtoPago": "20260512",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "307.40",
+      "Importe": "64.55"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 6,
+      "FchProceso": "20260512144827",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 96,
+          "DocNro": 99999999,
+          "CbteDesde": 116,
+          "CbteHasta": 116,
+          "CbteFch": "20260512",
+          "Resultado": "A",
+          "CAE": "86190156074393",
+          "CAEFchVto": "20260522"
+        }
+      ]
+    }
+  },
+  "cae": "86190156074393",
+  "caeFchVto": "20260522"
+}
+------------------------------------------------------------
+
+[11/5/2026, 06:23:59]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 1,
+  "Concepto": 3,
+  "DocTipo": 80,
+  "DocNro": "20210466275",
+  "CbteDesde": 62,
+  "CbteHasta": 62,
+  "CbteFch": "20260511",
+  "ImpTotal": "219.98",
+  "ImpTotConc": 0,
+  "ImpNeto": "181.80",
+  "ImpOpEx": 0,
+  "ImpIVA": "38.18",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 1,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260511",
+  "FchServHasta": "20260511",
+  "FchVtoPago": "20260511",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "181.80",
+      "Importe": "38.18"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 1,
+      "FchProceso": "20260511182358",
+      "CantReg": 1,
+      "Resultado": "R",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 80,
+          "DocNro": 20210466275,
+          "CbteDesde": 62,
+          "CbteHasta": 62,
+          "CbteFch": "20260511",
+          "Resultado": "R",
+          "CAE": "",
+          "CAEFchVto": ""
+        }
+      ]
+    },
+    "Errors": {
+      "Err": [
+        {
+          "Code": 10069,
+          "Msg": "Campo DocNro no puede ser igual al del emisor."
+        }
+      ]
+    }
+  },
+  "cae": "",
+  "caeFchVto": ""
+}
+------------------------------------------------------------
+
+[11/5/2026, 05:32:15]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 1,
+  "Concepto": 3,
+  "DocTipo": 80,
+  "DocNro": "27210466285",
+  "CbteDesde": 61,
+  "CbteHasta": 61,
+  "CbteFch": "20260511",
+  "ImpTotal": "1010.90",
+  "ImpTotConc": 0,
+  "ImpNeto": "835.45",
+  "ImpOpEx": 0,
+  "ImpIVA": "175.45",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 1,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260511",
+  "FchServHasta": "20260511",
+  "FchVtoPago": "20260511",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "835.45",
+      "Importe": "175.45"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 1,
+      "FchProceso": "20260511173215",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 80,
+          "DocNro": 27210466285,
+          "CbteDesde": 61,
+          "CbteHasta": 61,
+          "CbteFch": "20260511",
+          "Resultado": "A",
+          "Observaciones": {
+            "Obs": [
+              {
+                "Code": 10238,
+                "Msg": "DocTipo: 80, DocNro 27210466285 - La CUIT receptora que ingresaste no existe. Tenes que emitir una Nota de Credito o anular la operacion, segun corresponda."
+              }
+            ]
+          },
+          "CAE": "86190155705100",
+          "CAEFchVto": "20260521"
+        }
+      ]
+    }
+  },
+  "cae": "86190155705100",
+  "caeFchVto": "20260521"
+}
+------------------------------------------------------------
+
+[11/5/2026, 05:30:51]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 6,
+  "Concepto": 3,
+  "DocTipo": 96,
+  "DocNro": "99999999",
+  "CbteDesde": 116,
+  "CbteHasta": 116,
+  "CbteFch": "20260511",
+  "ImpTotal": "0.00",
+  "ImpTotConc": 0,
+  "ImpNeto": "0.00",
+  "ImpOpEx": 0,
+  "ImpIVA": "0.00",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 5,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260511",
+  "FchServHasta": "20260511",
+  "FchVtoPago": "20260511",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "0.00",
+      "Importe": "0.00"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 6,
+      "FchProceso": "20260511173051",
+      "CantReg": 1,
+      "Resultado": "R",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 96,
+          "DocNro": 99999999,
+          "CbteDesde": 116,
+          "CbteHasta": 116,
+          "CbteFch": "20260511",
+          "Resultado": "R",
+          "Observaciones": {
+            "Obs": [
+              {
+                "Code": 10018,
+                "Msg": "Si ImpIva es igual a 0 el objeto Iva y AlicIva son obligatorios. Id iva = 3 (iva 0)"
+              }
+            ]
+          },
+          "CAE": "",
+          "CAEFchVto": ""
+        }
+      ]
+    }
+  },
+  "cae": "",
+  "caeFchVto": ""
+}
+------------------------------------------------------------
+
+[11/5/2026, 05:28:50]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 6,
+  "Concepto": 3,
+  "DocTipo": 96,
+  "DocNro": "21046627",
+  "CbteDesde": 115,
+  "CbteHasta": 115,
+  "CbteFch": "20260511",
+  "ImpTotal": "222.25",
+  "ImpTotConc": 0,
+  "ImpNeto": "183.68",
+  "ImpOpEx": 0,
+  "ImpIVA": "38.57",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 5,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260511",
+  "FchServHasta": "20260511",
+  "FchVtoPago": "20260511",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "183.68",
+      "Importe": "38.57"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 6,
+      "FchProceso": "20260511172850",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 96,
+          "DocNro": 21046627,
+          "CbteDesde": 115,
+          "CbteHasta": 115,
+          "CbteFch": "20260511",
+          "Resultado": "A",
+          "CAE": "86190155701800",
+          "CAEFchVto": "20260521"
+        }
+      ]
+    }
+  },
+  "cae": "86190155701800",
+  "caeFchVto": "20260521"
+}
+------------------------------------------------------------
+
+[11/5/2026, 05:09:29]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 4,
+  "CbteTipo": 6,
+  "Concepto": 3,
+  "DocTipo": 96,
+  "DocNro": "99999999",
+  "CbteDesde": 1,
+  "CbteHasta": 1,
+  "CbteFch": "20260511",
+  "ImpTotal": "143.55",
+  "ImpTotConc": 0,
+  "ImpNeto": "124.68",
+  "ImpOpEx": 0,
+  "ImpIVA": "18.87",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 5,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260511",
+  "FchServHasta": "20260511",
+  "FchVtoPago": "20260511",
+  "Iva": [
+    {
+      "Id": 4,
+      "BaseImp": "69.68",
+      "Importe": "7.32"
+    },
+    {
+      "Id": 5,
+      "BaseImp": "55.00",
+      "Importe": "11.55"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 4,
+      "CbteTipo": 6,
+      "FchProceso": "20260511170928",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 96,
+          "DocNro": 99999999,
+          "CbteDesde": 1,
+          "CbteHasta": 1,
+          "CbteFch": "20260511",
+          "Resultado": "A",
+          "CAE": "86190155699565",
+          "CAEFchVto": "20260521"
+        }
+      ]
+    }
+  },
+  "cae": "86190155699565",
+  "caeFchVto": "20260521"
+}
+------------------------------------------------------------
+
+[29/4/2026, 06:17:20]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 1,
+  "Concepto": 3,
+  "DocTipo": 80,
+  "DocNro": "27210466285",
+  "CbteDesde": 60,
+  "CbteHasta": 60,
+  "CbteFch": "20260429",
+  "ImpTotal": "77.00",
+  "ImpTotConc": 0,
+  "ImpNeto": "63.64",
+  "ImpOpEx": 0,
+  "ImpIVA": "13.36",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 1,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "63.64",
+      "Importe": "13.36"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 1,
+      "FchProceso": "20260429181720",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 80,
+          "DocNro": 27210466285,
+          "CbteDesde": 60,
+          "CbteHasta": 60,
+          "CbteFch": "20260429",
+          "Resultado": "A",
+          "Observaciones": {
+            "Obs": [
+              {
+                "Code": 10238,
+                "Msg": "DocTipo: 80, DocNro 27210466285 - La CUIT receptora que ingresaste no existe. Tenes que emitir una Nota de Credito o anular la operacion, segun corresponda."
+              }
+            ]
+          },
+          "CAE": "86170058219312",
+          "CAEFchVto": "20260509"
+        }
+      ]
+    }
+  },
+  "cae": "86170058219312",
+  "caeFchVto": "20260509"
+}
+------------------------------------------------------------
+
+[29/4/2026, 06:16:15]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 1,
+  "Concepto": 3,
+  "DocTipo": 80,
+  "DocNro": "27210466285",
+  "CbteDesde": 59,
+  "CbteHasta": 59,
+  "CbteFch": "20260429",
+  "ImpTotal": "77.00",
+  "ImpTotConc": 0,
+  "ImpNeto": "63.64",
+  "ImpOpEx": 0,
+  "ImpIVA": "13.36",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 1,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "63.64",
+      "Importe": "13.36"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 1,
+      "FchProceso": "20260429181615",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 80,
+          "DocNro": 27210466285,
+          "CbteDesde": 59,
+          "CbteHasta": 59,
+          "CbteFch": "20260429",
+          "Resultado": "A",
+          "Observaciones": {
+            "Obs": [
+              {
+                "Code": 10238,
+                "Msg": "DocTipo: 80, DocNro 27210466285 - La CUIT receptora que ingresaste no existe. Tenes que emitir una Nota de Credito o anular la operacion, segun corresponda."
+              }
+            ]
+          },
+          "CAE": "86170058219249",
+          "CAEFchVto": "20260509"
+        }
+      ]
+    }
+  },
+  "cae": "86170058219249",
+  "caeFchVto": "20260509"
+}
+------------------------------------------------------------
+
+[29/4/2026, 05:37:21]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 1,
+  "Concepto": 3,
+  "DocTipo": 80,
+  "DocNro": "27210466288",
+  "CbteDesde": 58,
+  "CbteHasta": 58,
+  "CbteFch": "20260429",
+  "ImpTotal": "231.00",
+  "ImpTotConc": 0,
+  "ImpNeto": "196.96",
+  "ImpOpEx": 0,
+  "ImpIVA": "34.04",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 1,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 4,
+      "BaseImp": "69.68",
+      "Importe": "7.32"
+    },
+    {
+      "Id": 5,
+      "BaseImp": "127.27",
+      "Importe": "26.73"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 1,
+      "FchProceso": "20260429173721",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 80,
+          "DocNro": 27210466288,
+          "CbteDesde": 58,
+          "CbteHasta": 58,
+          "CbteFch": "20260429",
+          "Resultado": "A",
+          "Observaciones": {
+            "Obs": [
+              {
+                "Code": 10217,
+                "Msg": "El credito fiscal discriminado en el presente comprobante solo podra ser computado a efectos del Procedimiento permanente de transicion al Regimen General."
+              }
+            ]
+          },
+          "CAE": "86170058193562",
+          "CAEFchVto": "20260509"
+        }
+      ]
+    }
+  },
+  "cae": "86170058193562",
+  "caeFchVto": "20260509"
+}
+------------------------------------------------------------
+
+[29/4/2026, 05:36:46]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 6,
+  "Concepto": 3,
+  "DocTipo": 96,
+  "DocNro": "99999999",
+  "CbteDesde": 114,
+  "CbteHasta": 114,
+  "CbteFch": "20260429",
+  "ImpTotal": "154.00",
+  "ImpTotConc": 0,
+  "ImpNeto": "133.32",
+  "ImpOpEx": 0,
+  "ImpIVA": "20.68",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 5,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 4,
+      "BaseImp": "69.68",
+      "Importe": "7.32"
+    },
+    {
+      "Id": 5,
+      "BaseImp": "63.64",
+      "Importe": "13.36"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 6,
+      "FchProceso": "20260429173646",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 96,
+          "DocNro": 99999999,
+          "CbteDesde": 114,
+          "CbteHasta": 114,
+          "CbteFch": "20260429",
+          "Resultado": "A",
+          "CAE": "86170058192401",
+          "CAEFchVto": "20260509"
+        }
+      ]
+    }
+  },
+  "cae": "86170058192401",
+  "caeFchVto": "20260509"
+}
+------------------------------------------------------------
+
+[29/4/2026, 05:22:42]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 1,
+  "Concepto": 1,
+  "DocTipo": 80,
+  "DocNro": "27210466288",
+  "CbteDesde": 58,
+  "CbteHasta": 58,
+  "CbteFch": "20260429",
+  "ImpTotal": "154.00",
+  "ImpTotConc": 0,
+  "ImpNeto": "133.32",
+  "ImpOpEx": 0,
+  "ImpIVA": "20.68",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 1,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 4,
+      "BaseImp": "69.68",
+      "Importe": "7.32"
+    },
+    {
+      "Id": 5,
+      "BaseImp": "63.64",
+      "Importe": "13.36"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 1,
+      "FchProceso": "20260429172242",
+      "CantReg": 1,
+      "Resultado": "R",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 1,
+          "DocTipo": 80,
+          "DocNro": 27210466288,
+          "CbteDesde": 58,
+          "CbteHasta": 58,
+          "CbteFch": "20260429",
+          "Resultado": "R",
+          "Observaciones": {
+            "Obs": [
+              {
+                "Code": 10049,
+                "Msg": "FchServDesde Debe informarse solo si Concepto es igual a 2 o 3."
+              },
+              {
+                "Code": 10049,
+                "Msg": "FchServHasta Debe informarse solo si Concepto es igual a 2 o 3."
+              },
+              {
+                "Code": 10049,
+                "Msg": "FchVtoPago Debe informarse solo si Concepto es igual a 2 o 3."
+              }
+            ]
+          },
+          "CAE": "",
+          "CAEFchVto": ""
+        }
+      ]
+    }
+  },
+  "cae": "",
+  "caeFchVto": ""
+}
+------------------------------------------------------------
+
+[29/4/2026, 05:21:38]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 1,
+  "Concepto": 1,
+  "DocTipo": 80,
+  "DocNro": "27210466288",
+  "CbteDesde": 58,
+  "CbteHasta": 58,
+  "CbteFch": "20260429",
+  "ImpTotal": "616.00",
+  "ImpTotConc": 0,
+  "ImpNeto": "515.14",
+  "ImpOpEx": 0,
+  "ImpIVA": "100.86",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 1,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 4,
+      "BaseImp": "69.68",
+      "Importe": "7.32"
+    },
+    {
+      "Id": 5,
+      "BaseImp": "445.45",
+      "Importe": "93.55"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 1,
+      "FchProceso": "20260429172138",
+      "CantReg": 1,
+      "Resultado": "R",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 1,
+          "DocTipo": 80,
+          "DocNro": 27210466288,
+          "CbteDesde": 58,
+          "CbteHasta": 58,
+          "CbteFch": "20260429",
+          "Resultado": "R",
+          "Observaciones": {
+            "Obs": [
+              {
+                "Code": 10049,
+                "Msg": "FchServDesde Debe informarse solo si Concepto es igual a 2 o 3."
+              },
+              {
+                "Code": 10049,
+                "Msg": "FchServHasta Debe informarse solo si Concepto es igual a 2 o 3."
+              },
+              {
+                "Code": 10049,
+                "Msg": "FchVtoPago Debe informarse solo si Concepto es igual a 2 o 3."
+              }
+            ]
+          },
+          "CAE": "",
+          "CAEFchVto": ""
+        }
+      ]
+    }
+  },
+  "cae": "",
+  "caeFchVto": ""
+}
+------------------------------------------------------------
+
+[29/4/2026, 05:16:18]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 1,
+  "Concepto": 1,
+  "DocTipo": 80,
+  "DocNro": "27210466288",
+  "CbteDesde": 58,
+  "CbteHasta": 58,
+  "CbteFch": "20260429",
+  "ImpTotal": "747.55",
+  "ImpTotConc": 0,
+  "ImpNeto": "663.44",
+  "ImpOpEx": 0,
+  "ImpIVA": "84.11",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 1,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 4,
+      "BaseImp": "525.79",
+      "Importe": "55.21"
+    },
+    {
+      "Id": 5,
+      "BaseImp": "137.64",
+      "Importe": "28.91"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 1,
+      "FchProceso": "20260429171618",
+      "CantReg": 1,
+      "Resultado": "R",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 1,
+          "DocTipo": 80,
+          "DocNro": 27210466288,
+          "CbteDesde": 58,
+          "CbteHasta": 58,
+          "CbteFch": "20260429",
+          "Resultado": "R",
+          "Observaciones": {
+            "Obs": [
+              {
+                "Code": 10049,
+                "Msg": "FchServDesde Debe informarse solo si Concepto es igual a 2 o 3."
+              },
+              {
+                "Code": 10049,
+                "Msg": "FchServHasta Debe informarse solo si Concepto es igual a 2 o 3."
+              },
+              {
+                "Code": 10049,
+                "Msg": "FchVtoPago Debe informarse solo si Concepto es igual a 2 o 3."
+              }
+            ]
+          },
+          "CAE": "",
+          "CAEFchVto": ""
+        }
+      ]
+    }
+  },
+  "cae": "",
+  "caeFchVto": ""
+}
+------------------------------------------------------------
+
+[29/4/2026, 04:35:59]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 6,
+  "Concepto": 3,
+  "DocTipo": 96,
+  "DocNro": "21046627",
+  "CbteDesde": 113,
+  "CbteHasta": 113,
+  "CbteFch": "20260429",
+  "ImpTotal": "77.00",
+  "ImpTotConc": 0,
+  "ImpNeto": "63.64",
+  "ImpOpEx": 0,
+  "ImpIVA": "13.36",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 5,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "63.64",
+      "Importe": "13.36"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 6,
+      "FchProceso": "20260429163559",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 96,
+          "DocNro": 21046627,
+          "CbteDesde": 113,
+          "CbteHasta": 113,
+          "CbteFch": "20260429",
+          "Resultado": "A",
+          "CAE": "86170058166207",
+          "CAEFchVto": "20260509"
+        }
+      ]
+    }
+  },
+  "cae": "86170058166207",
+  "caeFchVto": "20260509"
+}
+------------------------------------------------------------
+
+[29/4/2026, 04:35:34]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 6,
+  "Concepto": 3,
+  "DocTipo": 96,
+  "DocNro": "99999999",
+  "CbteDesde": 112,
+  "CbteHasta": 112,
+  "CbteFch": "20260429",
+  "ImpTotal": "22.11",
+  "ImpTotConc": 0,
+  "ImpNeto": "18.27",
+  "ImpOpEx": 0,
+  "ImpIVA": "3.84",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 5,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "18.27",
+      "Importe": "3.84"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 6,
+      "FchProceso": "20260429163533",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 96,
+          "DocNro": 99999999,
+          "CbteDesde": 112,
+          "CbteHasta": 112,
+          "CbteFch": "20260429",
+          "Resultado": "A",
+          "CAE": "86170058165764",
+          "CAEFchVto": "20260509"
+        }
+      ]
+    }
+  },
+  "cae": "86170058165764",
+  "caeFchVto": "20260509"
+}
+------------------------------------------------------------
+
+[29/4/2026, 02:00:18]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 6,
+  "Concepto": 3,
+  "DocTipo": 96,
+  "DocNro": "21046627",
+  "CbteDesde": 111,
+  "CbteHasta": 111,
+  "CbteFch": "20260429",
+  "ImpTotal": "977.46",
+  "ImpTotConc": 0,
+  "ImpNeto": "807.82",
+  "ImpOpEx": 0,
+  "ImpIVA": "169.64",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 5,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "807.82",
+      "Importe": "169.64"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 6,
+      "FchProceso": "20260429140017",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 96,
+          "DocNro": 21046627,
+          "CbteDesde": 111,
+          "CbteHasta": 111,
+          "CbteFch": "20260429",
+          "Resultado": "A",
+          "CAE": "86170058028048",
+          "CAEFchVto": "20260509"
+        }
+      ]
+    }
+  },
+  "cae": "86170058028048",
+  "caeFchVto": "20260509"
+}
+------------------------------------------------------------
+
+[29/4/2026, 12:49:15]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 1,
+  "Concepto": 3,
+  "DocTipo": 80,
+  "DocNro": "27210466288",
+  "CbteDesde": 57,
+  "CbteHasta": 57,
+  "CbteFch": "20260429",
+  "ImpTotal": "837.65",
+  "ImpTotConc": 0,
+  "ImpNeto": "692.27",
+  "ImpOpEx": 0,
+  "ImpIVA": "145.38",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 1,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "692.27",
+      "Importe": "145.38"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 1,
+      "FchProceso": "20260429124915",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 80,
+          "DocNro": 27210466288,
+          "CbteDesde": 57,
+          "CbteHasta": 57,
+          "CbteFch": "20260429",
+          "Resultado": "A",
+          "Observaciones": {
+            "Obs": [
+              {
+                "Code": 10217,
+                "Msg": "El credito fiscal discriminado en el presente comprobante solo podra ser computado a efectos del Procedimiento permanente de transicion al Regimen General."
+              }
+            ]
+          },
+          "CAE": "86170057987571",
+          "CAEFchVto": "20260509"
+        }
+      ]
+    }
+  },
+  "cae": "86170057987571",
+  "caeFchVto": "20260509"
+}
+------------------------------------------------------------
+
+[29/4/2026, 12:44:10]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 6,
+  "Concepto": 3,
+  "DocTipo": 96,
+  "DocNro": "21046627",
+  "CbteDesde": 110,
+  "CbteHasta": 110,
+  "CbteFch": "20260429",
+  "ImpTotal": "454.13",
+  "ImpTotConc": 0,
+  "ImpNeto": "375.31",
+  "ImpOpEx": 0,
+  "ImpIVA": "78.82",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 5,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "375.31",
+      "Importe": "78.82"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 6,
+      "FchProceso": "20260429124409",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 96,
+          "DocNro": 21046627,
+          "CbteDesde": 110,
+          "CbteHasta": 110,
+          "CbteFch": "20260429",
+          "Resultado": "A",
+          "CAE": "86170057985095",
+          "CAEFchVto": "20260509"
+        }
+      ]
+    }
+  },
+  "cae": "86170057985095",
+  "caeFchVto": "20260509"
+}
+------------------------------------------------------------
+
+[29/4/2026, 12:42:59]
+=== REQUEST ===
+{
+  "CantReg": 1,
+  "PtoVta": 1,
+  "CbteTipo": 6,
+  "Concepto": 3,
+  "DocTipo": 96,
+  "DocNro": "99999999",
+  "CbteDesde": 109,
+  "CbteHasta": 109,
+  "CbteFch": "20260429",
+  "ImpTotal": "22.11",
+  "ImpTotConc": 0,
+  "ImpNeto": "18.27",
+  "ImpOpEx": 0,
+  "ImpIVA": "3.84",
+  "ImpTrib": 0,
+  "MonId": "PES",
+  "MonCotiz": 1,
+  "CondicionIVAReceptorId": 5,
+  "CondicionIVAReceptorIdSpecified": true,
+  "FchServDesde": "20260429",
+  "FchServHasta": "20260429",
+  "FchVtoPago": "20260429",
+  "Iva": [
+    {
+      "Id": 5,
+      "BaseImp": "18.27",
+      "Importe": "3.84"
+    }
+  ]
+}
+=== RESPONSE ===
+{
+  "response": {
+    "FeCabResp": {
+      "Cuit": 20210466275,
+      "PtoVta": 1,
+      "CbteTipo": 6,
+      "FchProceso": "20260429124259",
+      "CantReg": 1,
+      "Resultado": "A",
+      "Reproceso": "N"
+    },
+    "FeDetResp": {
+      "FECAEDetResponse": [
+        {
+          "Concepto": 3,
+          "DocTipo": 96,
+          "DocNro": 99999999,
+          "CbteDesde": 109,
+          "CbteHasta": 109,
+          "CbteFch": "20260429",
+          "Resultado": "A",
+          "CAE": "86170057984609",
+          "CAEFchVto": "20260509"
+        }
+      ]
+    }
+  },
+  "cae": "86170057984609",
+  "caeFchVto": "20260509"
+}
+------------------------------------------------------------
+
