@@ -97,6 +97,8 @@ app.post('/afip/invoice/b', async (req, res) => {
 app.get('/afip/health', async (_req, res) => {
   try {
     await initArca();
+    const record1 = await pb.collection('afip_certs').getFirstListItem();
+    console.log('certs:', record1);
     res.json({ ok: true });
   } catch (error) {
     res.status(503).json({ ok: false, error: error.message });
