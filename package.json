@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node afip-server.js"
+  },
+  "dependencies": {
+    "@arcasdk/core": "^0.3.6",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "pocketbase": "^0.26.9"
+  }
+}
