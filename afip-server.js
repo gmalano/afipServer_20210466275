@@ -105,6 +105,17 @@ app.get('/afip/health', async (_req, res) => {
   }
 });
 
+
+app.get('/afip/getcerts', async (_req, res) => {
+  try {
+    const record1 = await pb.collection('afip_certs').getFirstListItem();
+    res.json({ ok: record1 });
+  } catch (error) {
+    res.status(503).json({ ok: false, error: error.message });
+  }
+});
+
+
 app.get('/health', (req, res) => res.status(200).json({ status: 'ok' }));
 
 app.listen(PORT, () => {
