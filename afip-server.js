@@ -101,9 +101,12 @@ app.get('/afip/health', async (_req, res) => {
     console.log('certs:', record1);
     res.json({ ok: true });
   } catch (error) {
-    res.status(503).json({ ok: false, error: error.message });
+    res.status(503).json({ ok: false, error: error.message, errorString: error });
   }
 });
+
+
+
 
 
 app.get('/afip/getcerts', async (_req, res) => {
