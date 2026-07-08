@@ -94,6 +94,7 @@ app.post('/afip/invoice/b', async (req, res) => {
   }
 });
 
+
 app.get('/afip/health', async (_req, res) => {
   try {
     await initArca();
@@ -104,7 +105,12 @@ app.get('/afip/health', async (_req, res) => {
     res.status(503).json({ ok: false, error: error.message, errorString: error });
   }
 });
+app.get('/', async (_req, res) => {
 
+
+  res.json({ ok: true, pb: process.env.POCKETBASE_URL || "-- sin pb --" });
+
+});
 
 
 
